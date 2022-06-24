@@ -1,0 +1,3 @@
+Nickname : bas
+age : 18
+mobile no: 212 224
